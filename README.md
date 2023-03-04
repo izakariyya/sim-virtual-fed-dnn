@@ -1,6 +1,6 @@
 <ins>**Resource Efficient Federated Deep Learning for IoT Security Monitoring**</ins>
 
-The objective of this project is to implement a resource-efficient federated deep learning algorithm to enhance security solutions in the Internet of Things (IoT) environment. The project considers both simulated and realistic testbeds.
+The objective of this project is to implement a resource-efficient federated deep learning algorithm to enhance security solutions in the Internet of Things (IoT) environment. The project considers the simulated federated scenario of implementing Fedarated Averaging (FedAVg).
 
 <ins>**Citing this work**</ins>
 
