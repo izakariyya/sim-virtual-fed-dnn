@@ -6,7 +6,7 @@ This project is focused on implementing a resource-efficient federated deep lear
 
 If you use this repository for academic research, you are highly encouraged (though not required) to cite the following paper:
 
-@inproceedings{zakariyya2022resource, < \br>
+@inproceedings{zakariyya2022resource, < br \>
   title={Resource Efficient Federated Deep Learning for IoT Security Monitoring}, < \br>
   author={Zakariyya, Idris and Kalutarage, Harsha and Al-Kadri, M Omar}, < \br>
   booktitle={Attacks and Defenses for the Internet-of-Things: 5th International Workshop, ADIoT 2022, Copenhagen, Denmark, September 30, 2022, Revised Selected Papers}, < \br>
