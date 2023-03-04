@@ -1,6 +1,6 @@
 <ins>**Resource Efficient Federated Deep Learning for IoT Security Monitoring**</ins>
 
-This project is focused on implementing a resource-efficient federated deep learning algorithm for effective security solutions in the Internet of Things (IoT) environment. The chosen Articifial Inelligence technique for this project is Deep Neural Network (DNN). The project further provide a performance comparison against state-of-the-art approaches in terms of robustness and resource savings. Additionally, a comparison with the TensorFlow Lite model is incorporated in the pt737_tensrlte.py script.
+The objective of this project is to implement a resource-efficient federated deep learning algorithm to enhance security solutions in the Internet of Things (IoT) environment. The project considers both simulated and realistic testbeds.
 
 <ins>**Citing this work**</ins>
 
